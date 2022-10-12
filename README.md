@@ -1,2 +1,2 @@
-# IDS-EDA
+# IDS
 Performed EDA on the stroke predictionn
